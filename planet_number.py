@@ -55,7 +55,7 @@ def main():
     # Runs if someone enters something other than a planet
     except KeyError:
         print("\nInvalid input, please try again.")
-        
+
 
 if __name__ == "__main__":
     main()
